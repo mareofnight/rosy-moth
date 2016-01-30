@@ -1,0 +1,29 @@
+body {
+    background-color: burlywood;
+    padding: 1em;
+}
+
+.color-input-section {
+    font-size: 3em;
+    padding: 1em 0;
+    text-align: center;
+}
+
+.color-input-section * {
+    vertical-align: middle;
+}
+
+.color-input-section .color-preview {
+    height: 2em;
+    width: 2em;
+    display: inline-block;
+    background-color: #ccc;
+}
+
+.color-input-section .hex-code {
+    display: inline-block;
+}
+
+.color-input-section .hex-code input {
+    width: 7em;
+}
