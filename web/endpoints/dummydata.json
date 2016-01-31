@@ -1,0 +1,90 @@
+[
+  {
+    "vendorItemID": "prd18849",
+    "displayName": "anti pill fleece",
+    "subtypes": [
+      {
+        "subtype": "white",
+        "colors": ["f6f6f6"]
+      },
+      {
+        "subtype": "ivory",
+        "colors": ["#F4F1EA"]
+      },
+      {
+        "subtype": "euro pink",
+        "colors": ["#ECCDD2"]
+      },
+      {
+        "subtype": "beetroot purple",
+        "colors": ["#D4124E"]
+      },
+      {
+        "subtype": "medium pink",
+        "colors": ["#FB6392"]
+      },
+      {
+        "subtype": "very berry",
+        "colors": ["#CE2463"]
+      },
+      {
+        "subtype": "blackberry wine",
+        "colors": ["#432332"]
+      },
+      {
+        "subtype": "dm red",
+        "colors": ["#F10323"]
+      },
+      {
+        "subtype": "fleece red",
+        "colors": ["#A70224"]
+      },
+      {
+        "subtype": "lollipop red",
+        "colors": ["#A11C27"]
+      },
+      {
+        "subtype": "mecca orange",
+        "colors": ["#DB4956"]
+      },
+      {
+        "subtype": "orange",
+        "colors": ["#FB4015"]
+      },
+      {
+        "subtype": "sugar coral",
+        "colors": ["#E25750"]
+      }
+    ]
+  },
+  {
+    "vendorItemID": "xprd769038",
+    "displayName": "ultra fluffy fabric",
+    "subtypes": [
+      {
+        "subtype": "white",
+        "colors": ["#FAFEFD"]
+      },
+      {
+        "subtype": "ivory",
+        "colors": ["#FCFEF9"]
+      },
+      {
+        "subtype": "fuchsia",
+        "colors": ["#E8437B"]
+      },
+      {
+        "subtype": "medium pink",
+        "colors": ["#E98CB0"]
+      },
+      {
+        "subtype": "red",
+        "colors": ["#B4000C"]
+      },
+      {
+        "subtype": "new orange",
+        "colors": ["#ED812F"]
+      }
+    ]
+  }
+]
