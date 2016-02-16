@@ -1,6 +1,11 @@
 body {
-    background-color: burlywood;
+    background-color: #FEE5A3;/*#FBE8BD;*/
     padding: 1em;
+    font-size: 1.9em;
+}
+
+.navbar-brand {
+    font-size: 1.4em;
 }
 
 .color-input-section {
@@ -17,7 +22,7 @@ body {
     height: 2em;
     width: 2em;
     display: inline-block;
-    background-color: #ccc;
+    background-color: burlywood;
 }
 
 .color-input-section .hex-code {
@@ -27,3 +32,22 @@ body {
 .color-input-section .hex-code input {
     width: 7em;
 }
+
+.navbar-default,
+.navbar-default .navbar-header,
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form {
+    background-color: #F7B2C5;/**#EDACC0;#FFB4D8; #FFA6D0;**/
+    border-color: #F28E97;
+    border-width: 2px;
+}
+
+.panel {
+    border: 2px solid #F7B2C5;
+}
+
+.navbar-brand, .navbar-nav > li > a {
+    text-shadow: 0 1px 0 rgba(115, 38, 60, 0.50);
+}
+
+
